@@ -1,0 +1,80 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"ambientocclusion": false,
+	"textures": {
+		"texture-rail": "blocks/iron_bars",
+		"tetxure-wood": "blocks/planks_oak"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box5",
+			"from": [ -7.5, 1, 3 ],
+			"to": [ 24, 2, 6 ],
+			"rotation": { "origin": [ -7.5, 1, 3 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 10.5, 16, 13.5 ], "texture": "#tetxure-wood" },
+				"up": { "uv": [ 0, 2.5, 16, 5.5 ], "texture": "#tetxure-wood" },
+				"north": { "uv": [ 0, 15, 16, 16 ], "texture": "#tetxure-wood" },
+				"south": { "uv": [ 0, 15, 16, 16 ], "texture": "#tetxure-wood" },
+				"west": { "uv": [ 2.5, 15, 5.5, 16 ], "texture": "#tetxure-wood" },
+				"east": { "uv": [ 10.5, 15, 13.5, 16 ], "texture": "#tetxure-wood" }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ -7.5, 1.3536, 17.0104 ],
+			"to": [ 24, 2.3536, 20.0104 ],
+			"rotation": { "origin": [ -7.5, 1, 3 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 2.5, 16, 5.5 ], "texture": "#tetxure-wood" },
+				"up": { "uv": [ 0, 10.5, 16, 13.5 ], "texture": "#tetxure-wood" },
+				"north": { "uv": [ 0, 15, 16, 16 ], "texture": "#tetxure-wood" },
+				"south": { "uv": [ 0, 15, 16, 16 ], "texture": "#tetxure-wood" },
+				"west": { "uv": [ 10.5, 15, 13.5, 16 ], "texture": "#tetxure-wood" },
+				"east": { "uv": [ 2.5, 15, 5.5, 16 ], "texture": "#tetxure-wood" }
+			}
+		},
+		{
+			"__comment": "Box4",
+			"from": [ 19.5001, 2.0722, 1.2794 ],
+			"to": [ 21.5001, 3.5722, 23.2794 ],
+			"rotation": { "origin": [ -7.5, 1, 3 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 12, 0, 14, 16 ], "texture": "#texture-rail" },
+				"up": { "uv": [ 12, 0, 14, 16 ], "texture": "#texture-rail" },
+				"north": { "uv": [ 2, 0, 4, 16 ], "texture": "#texture-rail" },
+				"south": { "uv": [ 12, 0, 14, 16 ], "texture": "#texture-rail" },
+				"west": { "uv": [ 2, 0, 4, 16 ], "texture": "#texture-rail", "rotation": 90 },
+				"east": { "uv": [ 7, 0, 9, 16 ], "texture": "#texture-rail", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "Box4",
+			"from": [ -5.5, 2.3964, 0.8964 ],
+			"to": [ -3.5, 3.8964, 22.8964 ],
+			"rotation": { "origin": [ -7.5, 1, 3 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 12, 0, 14, 16 ], "texture": "#texture-rail" },
+				"up": { "uv": [ 12, 0, 14, 16 ], "texture": "#texture-rail" },
+				"north": { "uv": [ 2, 0, 4, 16 ], "texture": "#texture-rail" },
+				"south": { "uv": [ 12, 0, 14, 16 ], "texture": "#texture-rail" },
+				"west": { "uv": [ 2, 0, 4, 16 ], "texture": "#texture-rail", "rotation": 90 },
+				"east": { "uv": [ 7, 0, 9, 16 ], "texture": "#texture-rail", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ -7.5, 1.3536, 9.0104 ],
+			"to": [ 24, 2.3536, 12.0104 ],
+			"rotation": { "origin": [ -7.5, 1, 3 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0, 10.5, 16, 13.5 ], "texture": "#tetxure-wood" },
+				"up": { "uv": [ 0, 2.5, 16, 5.5 ], "texture": "#tetxure-wood" },
+				"north": { "uv": [ 0, 15, 16, 16 ], "texture": "#tetxure-wood" },
+				"south": { "uv": [ 0, 15, 16, 16 ], "texture": "#tetxure-wood" },
+				"west": { "uv": [ 2.5, 15, 5.5, 16 ], "texture": "#tetxure-wood" },
+				"east": { "uv": [ 10.5, 15, 13.5, 16 ], "texture": "#tetxure-wood" }
+			}
+		}
+	]
+}

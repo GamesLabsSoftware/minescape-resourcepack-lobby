@@ -1,0 +1,6 @@
+{
+	"parent": "item/lobby/hats/bokoblin_mask",
+  "textures": {
+		"bokoblin_mask": "lobby/hats/bokoblin_mask_off"
+	}
+}

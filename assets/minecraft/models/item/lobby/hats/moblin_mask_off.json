@@ -1,0 +1,6 @@
+{
+	"parent": "item/lobby/hats/moblin_mask",
+  "textures": {
+		"moblin_mask": "lobby/hats/moblin_mask_off"
+	}
+}
