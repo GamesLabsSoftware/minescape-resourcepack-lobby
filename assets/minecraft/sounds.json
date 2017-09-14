@@ -1,0 +1,92 @@
+{
+  "music.game": {
+    "replace": true,
+    "sounds": [
+      
+    ]
+  },
+  "music.creative": {
+    "replace": true,
+    "sounds": [
+      
+    ]
+  },
+  
+  "lobby.ambient.fountain": {
+    "sounds": [
+      "lobby/ambient/fountain"
+    ]
+  },
+  "lobby.ambient.shop.mask": {
+    "sounds": [
+      "lobby/ambient/shop/mask"
+    ]
+  },
+  "lobby.ambient.shop.pet": {
+    "sounds": [
+      "lobby/ambient/shop/pet"
+    ]
+  },
+  "lobby.ambient.shop.clothes": {
+    "sounds": [
+      "lobby/ambient/shop/clothes"
+    ]
+  },
+  "lobby.ambient.shop.particles": {
+    "sounds": [
+      "lobby/ambient/shop/particles"
+    ]
+  },
+  "lobby.ambient.station": {
+    "sounds": [
+      "lobby/ambient/station"
+    ]
+  },
+  "lobby.ambient.cascade": {
+    "sounds": [
+      "lobby/ambient/cascade"
+    ]
+  },
+  "lobby.ambient.birds": {
+    "sounds": [
+      "lobby/ambient/bird-1",
+      "lobby/ambient/bird-2",
+      "lobby/ambient/bird-3",
+      "lobby/ambient/bird-4",
+      "lobby/ambient/bird-5",
+      "lobby/ambient/bird-6"
+    ]
+  }
+  
+  ,
+  "lobby.game.legacy": {
+    "sounds": [
+      "lobby/game/legacy"
+    ]
+  },
+  "lobby.game.battle_arena": {
+    "sounds": [
+      "lobby/game/battle_arena"
+    ]
+  },
+  "lobby.game.mini_games": {
+    "sounds": [
+      "lobby/game/mini_games"
+    ]
+  },
+  "lobby.game.all": {
+    "sounds": [
+      "lobby/game/all"
+    ]
+  },
+  "lobby.game.apocalypse": {
+    "sounds": [
+      "lobby/game/apocalypse"
+    ]
+  },
+  "lobby.game.lom": {
+    "sounds": [
+      "lobby/game/lom"
+    ]
+  }
+}
