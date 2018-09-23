@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"texture-rail": "block/iron_bars",
-		"tetxure-wood": "block/planks_oak"
+		"tetxure-wood": "block/oak_planks"
 	},
 	"elements": [
 		{

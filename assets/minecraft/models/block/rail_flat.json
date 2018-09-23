@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"textures": {
 		"texture-rail": "blocks/iron_bars",
-		"tetxure-wood": "blocks/planks_oak"
+		"tetxure-wood": "blocks/oak_planks"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
 			"__comment": "Box4",
 			"from": [ 19.5, 1, -16 ],
