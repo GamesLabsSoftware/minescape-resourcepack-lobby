@@ -1,6 +1,0 @@
-{
-	"parent": "item/lobby/hats/climber_bandana",
-  "textures": {
-		"climber_bandana": "lobby/hats/climber_bandana_off"
-	}
-}

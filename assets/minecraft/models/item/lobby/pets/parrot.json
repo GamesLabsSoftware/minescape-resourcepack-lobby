@@ -1,6 +1,0 @@
-{
-  "parent": "item/lobby/menu/icon",
-  "textures": {
-      "layer0": "lobby/pets/parrot"
-  }
-}
