@@ -2,16 +2,16 @@
   "music.game": {
     "replace": true,
     "sounds": [
-      
+
     ]
   },
   "music.creative": {
     "replace": true,
     "sounds": [
-      
+
     ]
   },
-  
+
   "lobby.ambient.fountain": {
     "sounds": [
       "lobby/ambient/fountain"
@@ -57,36 +57,36 @@
       "lobby/ambient/bird-6"
     ]
   }
-  
+
   ,
-  "lobby.game.legacy": {
+  "lobby.ambient.game.legacy": {
     "sounds": [
-      "lobby/game/legacy"
+      "lobby/ambient/game/legacy"
     ]
   },
-  "lobby.game.battle_arena": {
+  "lobby.ambient.game.battle_arena": {
     "sounds": [
-      "lobby/game/battle_arena"
+      "lobby/ambient/game/battle_arena"
     ]
   },
-  "lobby.game.mini_games": {
+  "lobby.ambient.game.mini_games": {
     "sounds": [
-      "lobby/game/mini_games"
+      "lobby/ambient/game/mini_games"
     ]
   },
-  "lobby.game.all": {
+  "lobby.ambient.game.all": {
     "sounds": [
-      "lobby/game/all"
+      "lobby/ambient/game/all"
     ]
   },
-  "lobby.game.apocalypse": {
+  "lobby.ambient.game.apocalypse": {
     "sounds": [
-      "lobby/game/apocalypse"
+      "lobby/ambient/game/apocalypse"
     ]
   },
-  "lobby.game.lom": {
+  "lobby.ambient.game.lom": {
     "sounds": [
-      "lobby/game/lom"
+      "lobby/ambient/game/lom"
     ]
   }
 }
