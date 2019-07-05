@@ -2,8 +2,8 @@
 	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
 	"ambientocclusion": false,
 	"textures": {
-		"texture-rail": "block/iron_bars",
-		"tetxure-wood": "block/oak_planks"
+		"texture-rail": "blocks/iron_bars",
+		"tetxure-wood": "blocks/planks_oak"
 	},
 	"elements": [
 		{

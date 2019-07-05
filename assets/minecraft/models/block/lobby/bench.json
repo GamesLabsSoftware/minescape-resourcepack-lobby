@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "block/oak_planks",
-		"texture1": "block/oak_log"
+		"texture": "lobby/bench_planks",
+		"texture1": "lobby/bench_log"
 	},
 	"elements": [
 		{

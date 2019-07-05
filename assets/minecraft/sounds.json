@@ -1,17 +1,22 @@
 {
+  "all.sounds.nice-one-joey": {
+    "sounds": [
+      "all/sounds/nice-one-joey"
+    ]
+  },
+  "all.sounds.laugh": {
+    "sounds": [
+      "all/sounds/laugh"
+    ]
+  },
   "music.game": {
     "replace": true,
-    "sounds": [
-
-    ]
+    "sounds": []
   },
   "music.creative": {
     "replace": true,
-    "sounds": [
-
-    ]
+    "sounds": []
   },
-
   "lobby.ambient.fountain": {
     "sounds": [
       "lobby/ambient/fountain"
@@ -37,6 +42,11 @@
       "lobby/ambient/shop/particles"
     ]
   },
+  "lobby.ambient.shop.generic": {
+    "sounds": [
+      "lobby/ambient/shop/generic"
+    ]
+  },
   "lobby.ambient.station": {
     "sounds": [
       "lobby/ambient/station"
@@ -56,12 +66,10 @@
       "lobby/ambient/bird-5",
       "lobby/ambient/bird-6"
     ]
-  }
-
-  ,
-  "lobby.ambient.game.legacy": {
+  },
+  "lobby.ambient.game.minescape": {
     "sounds": [
-      "lobby/ambient/game/legacy"
+      "lobby/ambient/game/minescape"
     ]
   },
   "lobby.ambient.game.battle_arena": {
